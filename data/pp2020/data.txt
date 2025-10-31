@@ -1,0 +1,6 @@
+-- The images folder downloaded from Kaggle should be placed in this directory
+
+kaggle competitions download -c plant-pathology-2021-fgvc8
+mv train_images images
+
+
